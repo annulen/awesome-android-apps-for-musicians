@@ -1,4 +1,4 @@
-# Приложения для музыкантов на платформе Android
+# Приложения для музыкантов на платформе Android (упражнения)
 
 <img src="https://lurkmore.so/images/d/d4/Awesome.svg" height="20px" alt="Awesome">
 
